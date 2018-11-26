@@ -1,0 +1,19 @@
+body{
+    background: #daeef5;
+}
+ h2{
+     text-align: center;
+     color: #06066b;
+     text-decoration: underline;
+ }
+ .pm-list{
+    margin-left: 442px;
+}
+ .pm-list li {
+     font-weight: bold;
+     font-size: 19px;
+
+ }
+ .pm-list li p {
+     font-weight: 200;
+ }
